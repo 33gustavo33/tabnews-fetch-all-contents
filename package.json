@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "node-fetch": "3.3.0",
+    "ora": "6.1.2",
+    "tabnews.js": "1.1.0"
+  },
+  "type": "module"
+}
